@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Python Developer** with experie
 ## 🏆 Certifications
 
 ### Cisco Networking Academy  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cisco_logo.svg" alt="Cisco Networking Academy logo" width="120"/>  
+<img src="https://avatars.githubusercontent.com/u/1376999?s=280&v=4"/>  
 
 - **PCAP – Programming Essentials in Python**  
   Cisco Networking Academy  
