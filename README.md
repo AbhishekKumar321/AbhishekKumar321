@@ -17,11 +17,28 @@ Welcome to my GitHub profile! I'm a passionate **Python Developer** with experie
 
 ---
 
+
 ## 🏆 Certifications
 
-- Cisco Python Certificate
-- Cisco Cybersecurity Certificate
-- AWS Cloud Foundation Certificate
+### Cisco Networking Academy  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cisco_logo.svg" alt="Cisco Networking Academy logo" width="120"/>  
+
+- **PCAP – Programming Essentials in Python**  
+  Cisco Networking Academy  
+  *Issued Jul 2023*  
+  Skills: Object-Oriented Programming (OOP) · Python (Programming Language)
+
+- **Cybersecurity Essentials**  
+  Cisco Networking Academy  
+  *Issued Feb 2022*
+
+### Amazon Web Services (AWS)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS logo" width="120"/>  
+
+- **AWS Academy Graduate – AWS Academy Cloud Foundations**  
+  Amazon Web Services (AWS)  
+  *Issued Jun 2023*
+
 
 ---
 
