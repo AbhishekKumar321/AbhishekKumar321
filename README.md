@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Hi there 👋 I'm Abhishek Kumar
 
 Welcome to my GitHub profile! I'm a passionate **Python Developer** with experience building powerful web applications and AI/ML solutions. I love turning ideas into code and solving real-world problems with technology.
