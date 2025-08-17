@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Python Developer** with experience building powerful web applications and AI/ML solutions. I love turning ideas into code and solving real-world problems with technology.
 
-![Computer Circuit Board]([https://images.unsplash.com/photo-1519125323398-675f0ddb6308](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)?fit=crop&w=800&q=80)
+![Computer Circuit Board]([https://images.unsplash.com/photo-1519125323398-675f0ddb6308](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?fit=crop&w=800&q=80](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
 
 ---
 
