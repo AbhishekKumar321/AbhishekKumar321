@@ -200,7 +200,7 @@ $ cat ~/.wisdom
 <div align="center">
 
 ```bash
-$ ping me --channels=[mail, linkedin, github]
+$ ping me --channels=[mail: abhishek.xyz878@gmail.com, linkedin:https://www.linkedin.com/in/abhishek-kumar-294650205/]
 ```
 
 <a href="mailto:abhishek.xyz878@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
