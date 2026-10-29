@@ -162,13 +162,36 @@ exploring = [
 
 ## `~/fortune`
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&qColor=00ff88&aColor=ffffff" alt="Dev joke of the day" />
-</div>
+```bash
+$ fortune | cowsay
+ ______________________________________________________
+/ There are only two hard things in computer science:  \
+| cache invalidation, naming things,                   |
+\ and off-by-one errors.                              /
+ ------------------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false&quote=00ff88" alt="Dev quote of the day" />
-</div>
+```bash
+$ cat ~/.wisdom
+
+┌─[ engineering ]──────────────────────────────────────────────┐
+│                                                              │
+│   "Make it work. Make it right. Make it fast."              │
+│                                             — Kent Beck     │
+│                                                              │
+│   "Weeks of coding can save you hours of planning."         │
+│                                             — anon          │
+│                                                              │
+│   "The model is confident. The eval set is not."            │
+│                                             — every ML eng  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
